@@ -8,10 +8,8 @@
                 <!-- Grid column -->
                 <div class="col-md-6 mt-md-0 mt-3">
                     <!-- Content -->
-                    <h5 class="text-uppercase font-weight-bold">Footer text 1</h5>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita sapiente sint, nulla, nihil repudiandae
-                        commodi voluptatibus corrupti animi sequi aliquid magnam debitis, maxime quam recusandae harum esse fugiat.
-                        Itaque, culpa?</p>
+                    <h5 class="text-uppercase font-weight-bold">Sobre nosotros</h5>
+                    <a href="https://github.com/lumrodriguezca/semana-2-26"> Conoce nuestro repositorio </a>
                 </div>
                 <!-- Grid column -->
                 <hr class="clearfix w-100 d-md-none pb-3">
@@ -22,11 +20,11 @@
                     <dl class="row">
                         
                         <dt class="col-sm-3"><a class="linkPerfil" href="https://github.com/lumrodriguezca" target="_blank">Luisa María</a></dt>
-                        <dd class="col-sm-9">Lorem ipsum dolor sit amet consectetur, adipisicing elit</dd>
-                        <dt class="col-sm-3"><a class="linkPerfil" href="https://github.com/OmarPerez03" target="_blank">Omar</a></dt>
-                        <dd class="col-sm-9">Lorem ipsum dolor sit amet, consectetur adipisicing elit</dd>
-                        <dt class="col-sm-3"><a class="linkPerfil" href="https://github.com/Mao182532" target="_blank">Martha</a></dt>
-                        <dd class="col-sm-9">Lorem ipsum, dolor sit amet consectetur adipisicing elit.</dd>
+                        <dd class="col-sm-9">lumrodriguezca@unal.edu.co</dd>
+                        <dt class="col-sm-3"><a class="linkPerfil" href="https://github.com/OmarPerez03" target="_blank">Omar Andrés</a></dt>
+                        <dd class="col-sm-9">omar.andres.03.06@gmail.com</dd>
+                        <dt class="col-sm-3"><a class="linkPerfil" href="https://github.com/Mao182532" target="_blank">Martha Cecilia</a></dt>
+                        <dd class="col-sm-9">marthaceciliaortizmendez@gmail.com</dd>
                     </dl>
                 </div>
                 <!-- Grid column -->

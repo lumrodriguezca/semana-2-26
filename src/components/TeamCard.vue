@@ -1,5 +1,5 @@
 <template>
-    <div id="team">
+    <div id="team" class="team">
         <div class="card border-info text-info">
             <div class="d-flex justify-content-center p-2">
                 <img :src="member.image" alt="foto" heidht="200" width=200>

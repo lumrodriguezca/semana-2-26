@@ -52,23 +52,23 @@ export default {
       {
         codigo : 1 ,
         nombre : 'Luisa' ,
-        descripcion : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.' ,
-        rol : 'Lorem ipsum dolor' ,
-        image : 'https://i.ibb.co/kMR3kxW/foto-Luisa3.png'
+        descripcion : 'Egresada del programa de Matemáticas en la Universidad Nacional de Colombia sede Medellín. Intereses en ciencia de datos y machine learning.' ,
+        rol : 'Desarrolladora' ,
+        image : 'https://i.ibb.co/gvpPsqx/foto-Luisa4.png'
       },
       {
         codigo : 2 ,
         nombre : 'Omar' ,
-        descripcion : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.' ,
-        rol : 'Lorem ipsum dolor' ,
-        image : 'images/hombre.png'
+        descripcion : 'Estudiante ingenieria de sistemas en la Universidad Central con diplomado en programacion java en la Universidad Politecnica de Colombia.' ,
+        rol : 'Desarrollador' ,
+        image : 'https://i.ibb.co/QFqrG46/omar-Circular.png'
       },
       {
         codigo : 3 ,
         nombre : 'Martha' ,
-        descripcion : 'Lorem ipsum dolor sit amet consectetur adipisicing elit.' ,
-        rol : 'Lorem ipsum dolor' ,
-        image : 'images/mujer.png'
+        descripcion : 'Egresada de la universidad Real de Colombia del técnico en programación, actualmente estudia en el SENA mejorando su currículo profesional.' ,
+        rol : 'Desarrolladora' ,
+        image : 'https://i.ibb.co/k1WXhww/martha-Circular.png'
       }
       ]
     }
