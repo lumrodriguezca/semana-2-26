@@ -1,7 +1,7 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand " href="#">
-            <img src="images/pista.png"  width="30 " height="30" class="d-inline-block align-top" alt=" " loading="lazy"> Bootstrap
+            <img src="images/pista.png"  width="30 " height="30" class="d-inline-block align-top" alt=" " loading="lazy"> BeautyPets
         </a>
         <div class="collapse navbar-collapse justify-content-end " id="navbarNav ">
             <ul class="navbar-nav ">
