@@ -9,7 +9,7 @@
                 <p class="card-text">{{member.descripcion}}</p>
             </div>
             <div class="card-footer">
-                <small class="text-muted">Last updated 3 mins ago</small>
+                <small class="text-muted">{{member.codigo}}. {{member.rol}}</small>
             </div>
         </div>
     </div>
